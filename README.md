@@ -48,8 +48,8 @@ These are hardcoded as part of the exercise:
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/invoice-generator.git
-cd invoice-generator
+git clone https://github.com/inamansari-92/Python-Homework.git
+cd Python-Homework
 
 
 
